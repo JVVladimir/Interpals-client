@@ -1,6 +1,6 @@
 # Interpals App
 
-Клиент для сайта interpals.net
+Клиент для сайта [interpals.net](interpals.net).
 
 ## Команда авторов
 
